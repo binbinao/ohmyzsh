@@ -102,3 +102,4 @@ source $ZSH/oh-my-zsh.sh
 alias lm=“ls -alh”
 alias ws="whatis"
 alias whs="whereis"
+alias cls=“clear”
